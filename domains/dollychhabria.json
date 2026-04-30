@@ -2,7 +2,7 @@
   "owner": {
     "username": "DollyPublic"
   },
-  "records": {
-    "TXT": "atproto=did:plc:did=did:plc:gxqgdijpawuvsxkn423oofnj
+  "record": {
+    "TXT": "atproto=did:plc:gxqgdijpawuvsxkn423oofnj"
   }
 }
